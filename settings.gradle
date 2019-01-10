@@ -1,0 +1,1 @@
+include ':app', ':libs', ':login', ':share', ':data', ':logindemo'
